@@ -7,5 +7,7 @@ A solution for the white matter lesions segmentation on MRI, used as a quantitat
 
 ### Dependencies
 Weka 3.6 (https://waikato.github.io/weka-wiki/downloading_weka/)
+
 matlab2weka (https://www.mathworks.com/matlabcentral/fileexchange/50120-using-weka-in-matlab)
+
 linspecer (https://www.mathworks.com/matlabcentral/fileexchange/42673-beautiful-and-distinguishable-line-colors-colormap)
