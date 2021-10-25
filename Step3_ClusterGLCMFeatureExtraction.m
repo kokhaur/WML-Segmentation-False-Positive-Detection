@@ -129,7 +129,7 @@ for iOffSet = 1 : length(offsets)
         for i=1:length(FileList)
             load([strPath FileList(i).name]);
             m_FeatureManager = [];
-            [m_FeatureManager] = funcLesionsFeatureExtractionTesting(arrImgFLAIR, arrImgAnnotated, arrImgLesionCandidate, m_FeatureManager, iLevel, offsets(iOffSet,:), iMethod);
+            [m_FeatureManager] = funcLesionsFeatureExtractionTrainingNonLesions(arrImgFLAIR, arrImgAnnotated, arrImgLesionCandidate, m_FeatureManager, iLevel, offsets(iOffSet,:), iMethod);
 
             for iIndex = 1 : length(m_FeatureManager)
              
