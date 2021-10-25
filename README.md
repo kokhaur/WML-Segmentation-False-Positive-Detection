@@ -12,7 +12,7 @@ Weka 3.6 (https://waikato.github.io/weka-wiki/downloading_weka/)
 
 matlab2weka (https://www.mathworks.com/matlabcentral/fileexchange/50120-using-weka-in-matlab)
 
-Outlier Detection Toolbox in MATLAB developed by Goker Erdogan (https://github.com/gokererdogan/OutlierDetectionToolbox)
+Outlier Detection Toolbox in MATLAB implemented by Dr Goker Erdogan (https://github.com/gokererdogan/OutlierDetectionToolbox)
 
 linspecer (https://www.mathworks.com/matlabcentral/fileexchange/42673-beautiful-and-distinguishable-line-colors-colormap)
 
